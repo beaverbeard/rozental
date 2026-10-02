@@ -1,8 +1,8 @@
 {
   "name": "rozental",
   "displayName": "Розенталь",
-  "version": "1.0.0",
-  "description": "Корректор русского текста: орфография, пунктуация, согласование и управление, единообразие. Точность важнее полноты — гиперкоррекция хуже пропуска.",
+  "version": "1.0.1",
+  "description": "Proofreader for Russian-language text: spelling, punctuation, agreement and government, consistency. Precision over recall — a false correction is worse than a miss.",
   "author": {
     "name": "Rodion Scryabin (beaverbeard)",
     "url": "https://github.com/beaverbeard"

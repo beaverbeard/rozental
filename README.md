@@ -9,6 +9,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-skill-da7756.svg)](https://docs.claude.com/en/docs/claude-code/overview)
 
+**In English.** Rozental is a proofreader for **Russian-language text only**: spelling, punctuation, grammatical agreement and government, and consistency of names, capitalization and abbreviations. It returns a table of findings with quotes and fixes, and prefers precision — it would rather skip a doubtful case than introduce a hypercorrection. Pure instructions for Claude: no scripts, no network access, nothing is stored.
+
+
 Даёте текст — Claude проходит по нему как корректор: орфография (-тся/-ться, н/нн, словарные
 опечатки), пунктуация (обособления, парные знаки, прямая речь, слова-ловушки), согласование
 и управление, языковое единообразие (написания имён, заглавные, сокращения). Возвращает
