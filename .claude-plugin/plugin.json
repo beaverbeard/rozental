@@ -1,7 +1,7 @@
 {
   "name": "rozental",
   "displayName": "Розенталь",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Proofreader for Russian-language text: spelling, punctuation, agreement and government, consistency. Precision over recall — a false correction is worse than a miss.",
   "author": {
     "name": "Rodion Scryabin (beaverbeard)",
