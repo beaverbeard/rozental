@@ -6,3 +6,6 @@ Thumbs.db
 
 # Личные настройки Claude Code (общий скил и команду храним, личный конфиг — нет)
 .claude/settings.local.json
+
+# Результаты claude plugin eval
+evals/results/
