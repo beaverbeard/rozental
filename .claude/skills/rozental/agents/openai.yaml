@@ -1,0 +1,6 @@
+interface:
+  display_name: "Розенталь"
+  short_description: "Проверяет орфографию, пунктуацию и грамматику"
+  icon_small: "./assets/brand/icon-rozental.svg"
+  icon_large: "./assets/brand/icon-rozental.png"
+  brand_color: "#EE402C"

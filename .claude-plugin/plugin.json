@@ -1,13 +1,13 @@
 {
   "name": "rozental",
   "displayName": "Розенталь",
-  "version": "1.0.6",
-  "description": "Proofreader for Russian-language text: spelling, punctuation, agreement and government, consistency. Precision over recall — a false correction is worse than a miss.",
+  "version": "1.0.7",
+  "description": "Для русского языка · For Russian. Скилл-корректор: проверяет и исправляет тексты. Находит ошибки в орфографии, пунктуации и грамматике. / A proofreading skill: checks and corrects texts. Finds mistakes in spelling, punctuation and grammar.",
   "author": {
     "name": "Rodion Scryabin (beaverbeard)",
     "url": "https://github.com/beaverbeard"
   },
-  "homepage": "https://github.com/beaverbeard/rozental",
+  "homepage": "https://redaktozavr.ru/rAIdactor?utm_source=skills",
   "repository": "https://github.com/beaverbeard/rozental",
   "license": "MIT",
   "keywords": [
@@ -18,5 +18,7 @@
   ],
   "skills": [
     "./.claude/skills/"
-  ]
+  ],
+  "icon": "./.claude-plugin/icon.png",
+  "documentationUrl": "https://github.com/beaverbeard/rozental"
 }
