@@ -110,6 +110,18 @@ Learn to give clearer briefs, retain your own voice and spot invented details. T
 [Subscribe to the newsletter →](https://redaktozavr.ru/rAIdactor?utm_source=skills)
 
 
+## The person behind the name
+
+<img src="assets/people/rozental.jpg" alt="Dietmar Elyashevich Rosenthal" align="right" width="128" hspace="12">
+
+**Dietmar Elyashevich Rosenthal (1900–1994)**
+
+Dietmar Rosenthal was a linguist, teacher and handbook author whose work trained generations of journalists in writing and editing. He explained difficult spelling, punctuation and usage through concrete examples, showing how rules apply to actual texts. His Handbook of Orthography and Literary Editing was written for publishing professionals. Our proofreading skill is named after him because it checks language and helps correct errors, distinguishing required corrections from cases where the writer has a choice.
+
+<br clear="all">
+
+Photo: photographer unidentified · [source and terms](assets/people/CREDITS.md).
+
 ## Compatibility and source
 
 Check the tools available in your app when setting up. The English page translates the documentation.

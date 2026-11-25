@@ -1,0 +1,21 @@
+{
+  "file": "portraits/rozental.jpg",
+  "sha256": "631e34e3f60771e4be4d3e3e6c424f078ebb3c0716f82c228559671fd0997b23",
+  "dimensions": [
+    639,
+    815
+  ],
+  "media_type": "image/jpeg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/ru/0/06/Ditmar_Rozental.jpg",
+  "source_url": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Ditmar_Rozental.jpg",
+  "author": "неизвестное фотоателье",
+  "license": "Non-free; Russian Wikipedia fair-use rationale only",
+  "license_url": null,
+  "rights_status": "nonfree_no_open_reuse_license",
+  "changes": "none; original file downloaded byte-for-byte",
+  "http_status": 200,
+  "retrieval": "cached successful HTTP download; see source metadata",
+  "credit": "архив факультета журналистики МГУ им. М. В. Ломоносова",
+  "source_metadata": "research/wikipedia-rozental-portrait.json",
+  "use_context": "Illustration of an educational biographical note; no open reuse permission claimed."
+}
