@@ -112,13 +112,12 @@ Learn to give clearer briefs, retain your own voice and spot invented details. T
 
 ## The person behind the name
 
-<img src="assets/people/rozental.jpg" alt="Dietmar Elyashevich Rosenthal" align="right" width="128" hspace="12">
-
-**Dietmar Elyashevich Rosenthal (1900–1994)**
-
-Dietmar Rosenthal was a linguist, teacher and handbook author whose work trained generations of journalists in writing and editing. He explained difficult spelling, punctuation and usage through concrete examples, showing how rules apply to actual texts. His Handbook of Orthography and Literary Editing was written for publishing professionals. Our proofreading skill is named after him because it checks language and helps correct errors, distinguishing required corrections from cases where the writer has a choice.
-
-<br clear="all">
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/people/biography-en-dark-mobile.png">
+  <source media="(max-width: 600px)" srcset="assets/people/biography-en-light-mobile.png">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/people/biography-en-dark.png">
+  <img src="assets/people/biography-en-light.png" alt="Dietmar Elyashevich Rosenthal (1900–1994). Dietmar Rosenthal was a linguist, teacher and handbook author whose work trained generations of journalists in writing and editing. He explained difficult spelling, punctuation and usage through concrete examples, showing how rules apply to actual texts. His Handbook of Orthography and Literary Editing was written for publishing professionals. Our proofreading skill is named after him because it checks language and helps correct errors, distinguishing required corrections from cases where the writer has a choice." width="1280">
+</picture>
 
 Photo: photographer unidentified · [source and terms](assets/people/CREDITS.md).
 

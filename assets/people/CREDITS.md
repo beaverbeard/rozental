@@ -7,7 +7,7 @@
 - Author: неизвестное фотоателье
 - Date: not stated
 - License / status as stated by the source: Non-free; Russian Wikipedia fair-use rationale only
-- Changes: none. The source image has not been edited.
+- Portrait changes: none. The card adds typography and layout around the original photograph.
 - SHA-256: `631e34e3f60771e4be4d3e3e6c424f078ebb3c0716f82c228559671fd0997b23`
 
 The repository’s MIT license does not replace the photograph’s separate terms.

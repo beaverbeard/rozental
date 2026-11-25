@@ -17,5 +17,97 @@
   "retrieval": "cached successful HTTP download; see source metadata",
   "credit": "архив факультета журналистики МГУ им. М. В. Ломоносова",
   "source_metadata": "research/wikipedia-rozental-portrait.json",
-  "use_context": "Illustration of an educational biographical note; no open reuse permission claimed."
+  "use_context": "Illustration of an educational biographical note; no open reuse permission claimed.",
+  "card_renders": [
+    {
+      "slug": "rozental",
+      "lang": "ru",
+      "layout": "wide",
+      "theme": "light",
+      "file": "biography-ru-light.png",
+      "width": 1280,
+      "height": 673,
+      "sha256": "2196217c3822eee858119fa2588568eaab9590164c4894b17cda34baf8ec0764",
+      "portrait_sha256": "631e34e3f60771e4be4d3e3e6c424f078ebb3c0716f82c228559671fd0997b23"
+    },
+    {
+      "slug": "rozental",
+      "lang": "ru",
+      "layout": "wide",
+      "theme": "dark",
+      "file": "biography-ru-dark.png",
+      "width": 1280,
+      "height": 673,
+      "sha256": "87f21aed4e6bd11e40a06608b5aa215342b94f26492a5ca9db98c6334ecc3bba",
+      "portrait_sha256": "631e34e3f60771e4be4d3e3e6c424f078ebb3c0716f82c228559671fd0997b23"
+    },
+    {
+      "slug": "rozental",
+      "lang": "ru",
+      "layout": "mobile",
+      "theme": "light",
+      "file": "biography-ru-light-mobile.png",
+      "width": 840,
+      "height": 1164,
+      "sha256": "12b040bcd37d74c57d6c46e59e2a4edcc0cd0e8f2e0542c0cdc41239cdc01580",
+      "portrait_sha256": "631e34e3f60771e4be4d3e3e6c424f078ebb3c0716f82c228559671fd0997b23"
+    },
+    {
+      "slug": "rozental",
+      "lang": "ru",
+      "layout": "mobile",
+      "theme": "dark",
+      "file": "biography-ru-dark-mobile.png",
+      "width": 840,
+      "height": 1164,
+      "sha256": "6b4e1d211e248692eda3c26007a8b1922862a0fc0c7b8d5485b62c356b82aad4",
+      "portrait_sha256": "631e34e3f60771e4be4d3e3e6c424f078ebb3c0716f82c228559671fd0997b23"
+    },
+    {
+      "slug": "rozental",
+      "lang": "en",
+      "layout": "wide",
+      "theme": "light",
+      "file": "biography-en-light.png",
+      "width": 1280,
+      "height": 588,
+      "sha256": "2172862e13abbc760caf93bba894140dc52fd8b24ec4c72554b088413c970f86",
+      "portrait_sha256": "631e34e3f60771e4be4d3e3e6c424f078ebb3c0716f82c228559671fd0997b23"
+    },
+    {
+      "slug": "rozental",
+      "lang": "en",
+      "layout": "wide",
+      "theme": "dark",
+      "file": "biography-en-dark.png",
+      "width": 1280,
+      "height": 588,
+      "sha256": "1a4af76a4bc0620ae25965a2162dc42f9e2f1c32b7f7baf7b408aa9e79993525",
+      "portrait_sha256": "631e34e3f60771e4be4d3e3e6c424f078ebb3c0716f82c228559671fd0997b23"
+    },
+    {
+      "slug": "rozental",
+      "lang": "en",
+      "layout": "mobile",
+      "theme": "light",
+      "file": "biography-en-light-mobile.png",
+      "width": 840,
+      "height": 1057,
+      "sha256": "46fbffbac9ecdc82b401a93d74129d00fa6a9056ef8c870c9a51ff570ea69d3b",
+      "portrait_sha256": "631e34e3f60771e4be4d3e3e6c424f078ebb3c0716f82c228559671fd0997b23"
+    },
+    {
+      "slug": "rozental",
+      "lang": "en",
+      "layout": "mobile",
+      "theme": "dark",
+      "file": "biography-en-dark-mobile.png",
+      "width": 840,
+      "height": 1057,
+      "sha256": "3a722844e81880cad47de19b9dfbccece920e67c482e51e04af33a29c11b6f38",
+      "portrait_sha256": "631e34e3f60771e4be4d3e3e6c424f078ebb3c0716f82c228559671fd0997b23"
+    }
+  ],
+  "card_layout": "separate portrait and text blocks; mobile paragraph below the portrait/name row",
+  "card_font": "Onest Regular/Bold"
 }
